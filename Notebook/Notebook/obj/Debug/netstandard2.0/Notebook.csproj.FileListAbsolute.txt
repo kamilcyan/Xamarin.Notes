@@ -1,0 +1,14 @@
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\bin\Debug\netstandard2.0\Notebook.deps.json
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\bin\Debug\netstandard2.0\Notebook.dll
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\bin\Debug\netstandard2.0\ref\Notebook.dll
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\bin\Debug\netstandard2.0\Notebook.pdb
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\obj\Debug\netstandard2.0\Notebook.csprojAssemblyReference.cache
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\obj\Debug\netstandard2.0\Views\NotePage.xaml.g.cs
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\obj\Debug\netstandard2.0\Notebook.AssemblyInfoInputs.cache
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\obj\Debug\netstandard2.0\Notebook.AssemblyInfo.cs
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\obj\Debug\netstandard2.0\XamlC.stamp
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\obj\Debug\netstandard2.0\Notebook.dll
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\obj\Debug\netstandard2.0\ref\Notebook.dll
+D:\vs19 trening\Notebook\Xamarin.Notes\Notebook\Notebook\obj\Debug\netstandard2.0\Notebook.pdb
